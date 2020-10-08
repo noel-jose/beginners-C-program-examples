@@ -1,4 +1,4 @@
-// Program to find ASCII value
+// Program to find ASCII values
 #include <stdio.h>
 int main()
 {
